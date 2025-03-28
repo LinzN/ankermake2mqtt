@@ -41,7 +41,7 @@ port = 1883
 # Running
 To run ankermake2mqtt use ```python3 AnkerConnect.py mqtt mirror```
 
-Thsi can be run in a screen or a own service
+This can be run in a screen or a own service
 
 ## Legal
 
